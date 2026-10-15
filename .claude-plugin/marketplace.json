@@ -1,0 +1,24 @@
+{
+  "name": "metmet",
+  "description": "MetMet skill for managing apps, Homebrew packages, TCP ports and disk cleanup on the Mac through the local MetMet app.",
+  "owner": {
+    "name": "xinyao27",
+    "email": "hi@atatapp.com",
+    "url": "https://github.com/xinyao27"
+  },
+  "plugins": [
+    {
+      "name": "metmet",
+      "source": "./",
+      "description": "MetMet skill for managing apps, Homebrew packages, TCP ports and disk cleanup on the Mac through the local MetMet app.",
+      "category": "productivity",
+      "tags": [
+        "macos",
+        "skills",
+        "ports",
+        "homebrew",
+        "cleanup"
+      ]
+    }
+  ]
+}

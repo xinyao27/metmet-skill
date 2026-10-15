@@ -1,0 +1,21 @@
+{
+  "name": "metmet",
+  "displayName": "MetMet",
+  "version": "0.1.0",
+  "description": "MetMet skill for managing apps, Homebrew packages, TCP ports and disk cleanup on the Mac through the local MetMet app.",
+  "author": {
+    "name": "xinyao27",
+    "email": "hi@atatapp.com",
+    "url": "https://github.com/xinyao27"
+  },
+  "repository": "https://github.com/xinyao27/metmet-skill",
+  "license": "MIT",
+  "keywords": [
+    "macos",
+    "skills",
+    "ports",
+    "uninstall",
+    "homebrew",
+    "cleanup"
+  ]
+}
